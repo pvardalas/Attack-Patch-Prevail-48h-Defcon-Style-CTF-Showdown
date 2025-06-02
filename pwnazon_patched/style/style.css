@@ -1,0 +1,45 @@
+body {
+  background-color: #fff;
+}
+
+table {
+  margin: auto;
+  width: 95%;
+  border-collapse: collapse;
+}
+table, th, td {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+tr:nth-child(even) {
+  background-color: #eee;
+}
+tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+a {
+  color: #555;
+  font-size: 25;
+}
+
+div.headlink {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}
+
+div.header {
+  width: 90%;
+  margin: auto;
+}
+
+div.container {
+  margin: auto;
+  width: 70%;
+  display: block;
+  border: 1px solid #000;
+  padding: 15px;
+}
+
+
