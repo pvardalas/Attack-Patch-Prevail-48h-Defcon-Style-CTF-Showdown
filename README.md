@@ -8,6 +8,11 @@
 A full-cycle exploitation and hardening of a vulnerable web service during a 48-hour DEFCON-style Capture The Flag. This repository documents the four vulnerabilities I discovered and exploited live against other teams, alongside the patches and countermeasures I deployed to transform the same service into a fortified, trap-laden stronghold.
 
 ---
+# Try the game your self
+## Find vulnerabillities in the vulnerable version, or try to pawn my patched version (if you can 😊)
+* [Vulnerable Version](https://vuln.panos.cloud)
+* [Patched Version](https://patched.panos.cloud)
+---
 
 ## 🛠️ Overview
 
