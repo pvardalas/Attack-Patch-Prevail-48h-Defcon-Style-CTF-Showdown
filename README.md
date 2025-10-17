@@ -10,8 +10,8 @@ A full-cycle exploitation and hardening of a vulnerable web service during a 48-
 ---
 # Try the game your self
 ## Find vulnerabillities in the vulnerable version, or try to pawn my patched version (if you can 😊)
-* [Vulnerable Version](https://vuln.panos.cloud)
-* [Patched Version](https://patched.panos.cloud)
+* [Vulnerable Version](https://vuln.vardalas.com)
+* [Patched Version](https://patched.vardalas.com)
 ---
 
 ## 🛠️ Overview
